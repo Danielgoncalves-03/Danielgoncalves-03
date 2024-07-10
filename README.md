@@ -1,30 +1,30 @@
 # Olá, seja bem-vindo ao meu portólio!
 ## Quem eu sou?
 
-Analista de dados júnior
-Estudante na graduação de Ciência de Dados
-Ex-militar das forças armadas
-Carioca e Vascaíno
-Buscando conhecimentos e oportunidades na área de dados 
+- Analista de dados júnior
+- Estudante na graduação de Ciência de Dados
+- Ex-militar das forças armadas
+- Carioca e Vascaíno
+- Buscando conhecimentos e oportunidades na área de dados 
 
 ## Conhecimentos e estudos
 
-Modelagem de dados
-Modelagem estatística
-Visualização de dados com Power BI
-Visualização de dados com Python
-Banco de dados
-Machine Learning
-Power BI
-Excel
+- Modelagem de dados
+- Modelagem estatística
+- Visualização de dados com Power BI
+- Visualização de dados com Python
+- Banco de dados
+- Machine Learning
+- Power BI
+- Excel
 
 ## Projetos: 
 
-Projeto 1:
-Projeto 2: 
-Projeto 3: 
-Projeto 4:
-Projeto 5:
+- Projeto 1:
+- Projeto 2: 
+- Projeto 3: 
+- Projeto 4:
+- Projeto 5:
 
 ## Redes sociais:
 
