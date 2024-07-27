@@ -19,6 +19,7 @@
 - Excel
 
 ## Projetos: 
+- Estudo Regressão Linear: [ESTUDO-REGRESSÃO-LINEAR] 
 
 ## Redes sociais:
 
