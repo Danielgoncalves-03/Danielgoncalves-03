@@ -20,8 +20,6 @@
 
 ## Projetos: 
 
-- Projeto Desvio de padrão e variância: 
-
 ## Redes sociais:
 
 - Linked In: [Daniel Gonçalves](https://www.linkedin.com/in/daniel-gon%C3%A7alves-dos-santos-82201629b/)
